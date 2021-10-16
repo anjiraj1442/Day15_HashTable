@@ -2,6 +2,13 @@ package com.bridgelabz.hastable;
 
 import java.util.Scanner;
 
+/**
+ * @author : Anji Raj Ardula
+ * @version :16.0
+ * @since :16/10/2021
+ */
+
+
 public class HashTableMain {
 
     public static void main(String[] args) {
